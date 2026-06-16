@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk:MORF@15&display=swap');
+
+.h-1 {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+.myPara {
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: font-01;
+    src: url("./ArefRuqaaInk-Bold.ttf");
+    /* src url("") == href "" */
+}
+
+.em {
+    /* font-family: font-01; */
+    font-family: "Honk", system-ui;
+}
+
+@font-face {
+    font-family: anmol;
+    src: url("./Amnol.ttf");
+}
+
+.AN {
+    /* font-family: anmol; */
+    font-family: "Kablammo", system-ui;
+}
