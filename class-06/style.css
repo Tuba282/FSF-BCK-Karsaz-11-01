@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.Cinderella {
+    width: 700px;
+    height: 700px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(84, 84, 227);
+}
+
+.h1 {
+    background-color: yellow;
+    display: inline;
+}
+
+.h2 {
+    display: inline;
+    background-color: yellowgreen;
+}
+
+.sapn-1 {
+    display: block;
+    background-color: rgb(81, 46, 195);
+}
+
+.sapn-2 {
+    background-color: rgb(195, 103, 46);
+}
+
+/* label {
+    display: block;
+} */
+
+.instaDiv {
+    width: 350px;
+    height: 500px;
+    border: 1px solid gray;
+    font-family: "Roboto", sans-serif;
+}
+
+.instaBTN {
+    width: 60%;
+    margin: 10px;
+    border: none;
+    color: white;
+    padding: 5px;
+    background-color: rgb(10, 116, 221);
+}
+
+input {
+    width: 60%;
+    display: block;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.301);
+}
